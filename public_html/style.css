@@ -1,0 +1,85 @@
+
+/* background: url('https://source.unsplash.com/twukN12EN7c/1920x1080') no-repeat center center fixed;*/
+/*background-color: #ffe0b5;*/
+body {
+   
+  background: url(imagens/listras.png) no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  background-size: cover;
+  -o-background-size: cover;
+}
+
+header, .bg-light{
+    background-image: linear-gradient(to right, #ff8c00, #fa8072);
+}
+
+.nav-link{
+    color: whitesmoke
+}
+
+/*header,.bg-light ,.mt-1 {
+  margin-top: 100px;
+}
+*/
+
+/*espaçamento*/
+h1{
+    margin-top: 25px;
+    margin-left: 25px; 
+    
+}
+
+
+.col-sm-6{
+    margin-top: 100px;
+    
+}
+.carousel-inner, .carousel-item active, .carousel-item{
+    width: 350px;
+    height: 400px;
+    /*margin-left: 180 px; */
+    margin: auto;
+  
+}
+
+iframe{
+    width: 400px;
+    
+    /*margin-left: 180 px; */
+    margin: auto;
+}
+
+/*hr{
+    padding-top: 2cm;
+    margin-top: 50%;
+    border: 0;
+    height: 1px;
+    background-image: linear-gradient(to right, #ff8c00, #fa8072);
+}
+
+
+/* não esquecer de cuidar da responsividade do video tbm */
+.col-sm-4{
+    margin-top: 100px;
+    margin-left: 100px;
+    
+}
+
+
+/*hr{
+    
+  border-color:#aaa;
+  box-sizing:border-box;
+  margin-top: 100px;
+  width:100%; 
+  margin-top: 30px;
+}*/
+
+/*.hr3 {
+  margin-top: 50px;
+  border: 0;
+  height: 2px;
+  background-image: linear-gradient(to right, transparent, #CCC, transparent);  
+}*/
+
